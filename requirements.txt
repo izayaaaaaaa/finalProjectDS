@@ -1,0 +1,26 @@
+# The following versions of the libraries are used in this project:
+# pandas 1.5.3
+pandas
+# numpy 1.24.1
+numpy
+
+# matplotlib 3.6.3
+matplotlib
+
+# seaborn 0.12.2
+seaborn
+# scipy 1.2.1
+scipy
+
+# scikit-learn 1.2.1
+scikit-learn
+
+# ipywidgets 8.0.4
+ipywidgets
+# tqdm 4.64.1
+tqdm
+
+
+
+
+
